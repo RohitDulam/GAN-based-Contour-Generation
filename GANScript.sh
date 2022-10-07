@@ -1,0 +1,1 @@
+python GAN.py 0.001 31 25 Gan 2 32 1
